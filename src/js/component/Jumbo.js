@@ -1,7 +1,7 @@
 import React from "react";
 import { Jumbotron, Button } from "react-bootstrap";
 
-export function JumboCards() {
+export function Jumbo() {
 	return (
 		<Jumbotron>
 			<h1>A Warm Welcome</h1>

@@ -7,7 +7,7 @@ export function Menu() {
 			expand="lg"
 			bg="dark"
 			variant="dark"
-			className="d-flex flex-wrap justify-content-around mx-2">
+			className="d-flex flex-wrap justify-content-around">
 			<Nav>
 				<Navbar.Brand href="#home">Start Bootstrap</Navbar.Brand>
 			</Nav>

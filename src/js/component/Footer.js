@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar } from "react-bootstrap";
 
-export function FooterCards() {
+export function Footer() {
 	return (
 		<Navbar
 			expand="lg"

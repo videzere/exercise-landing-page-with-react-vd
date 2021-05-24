@@ -1,14 +1,14 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import { JumboCards } from "./JumboCards.js";
+import { Jumbo } from "./Jumbo.js";
 import { Cards } from "./Cards.js";
 
-export function CenterCards() {
+export function Center() {
 	return (
 		<Container className="d-flex flex-column justify-content-between">
 			<Row className="m-auto">
 				<Col className="aling-items-center" xs={12} md={12}>
-					<JumboCards />
+					<Jumbo />
 				</Col>
 			</Row>
 			<Row className="m-auto">
